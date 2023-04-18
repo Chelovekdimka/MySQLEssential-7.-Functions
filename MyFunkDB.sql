@@ -3,7 +3,7 @@
 CREATE DATABASE MyFunkDB;
 USE MyFunkDB;
 
-CREATE TABLE employees (cars
+CREATE TABLE employees (
   id INT PRIMARY KEY auto_increment,
   name VARCHAR(50),
   phone_number VARCHAR(20)
